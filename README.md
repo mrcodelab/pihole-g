@@ -8,7 +8,7 @@ This is an aggregate project to aggressively block:
   <li>Exploitative ads</li>
   <li>Click bait</li>
   <li>Junk social media links</li>
-  <li>Includes an old Spyware SE black list</li>
+  <li>Includes an old Spbot S&D black list</li>
   <li>Much more</li>
 </ul>
 
